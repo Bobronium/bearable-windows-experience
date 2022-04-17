@@ -1,5 +1,5 @@
 # ~~awesome~~ bearable-bootcamp-experience
-Not awesome by all accounts, nothing can be awesome on Windows
+Not awesome by all accounts, nothing can be awesome on Windows.
 
 # Consistency with macOS
 ## Keyboard layout
@@ -36,6 +36,6 @@ Not awesome by all accounts, nothing can be awesome on Windows
 - [choco](https://github.com/chocolatey/choco) - like yum or apt-get, but for Windows
 
 ### iTerm2
-- [Windows Terminal Preview
-](https://www.microsoft.com/en-ge/p/windows-terminal-preview/9n8g5rfz9xk3?rtc=1&activetab=pivot:overviewtab) - I like it even more than anythinh available on macOS :(
+- [Windows Terminal
+](https://github.com/microsoft/terminal) - I like it even more than anythinh available on macOS :(
 
