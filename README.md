@@ -23,7 +23,7 @@ Not awesome by all accounts, nothing can be awesome on Windows.
 - [macs-fan-control](https://github.com/crystalidea/macs-fan-control) - configure sane fan curves
 
 ## GPU
-- https://www.bootcampdrivers.com/ - install latest AMD Professional/Gaming graphics. This allows for undervolting, which is a must if you're planning to do anything related to graphics.
+- https://www.bootcampdrivers.com/ - install latest AMD Professional/Gaming graphics. This allows for [undervolting](https://www.reddit.com/r/macbookpro/comments/klxhp8/guide_automatically_undervolt_in_bootcamp/), which is a must if you're planning to do anything related to graphics.
 
 # Missing software
 ### Spotlight
