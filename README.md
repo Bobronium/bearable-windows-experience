@@ -11,9 +11,12 @@ Not awesome by all accounts, Windows can never be awesome.
 
 - [kinto](https://github.com/rbreaves/kinto) - seamless copy and paste with all apps and terminals. The zero effort solution.
 
-
-## Misc
+## Cursors
 - [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors Megapack for Windows
+
+## Sounds
+- [BigSurSounds](https://github.com/ThisIsNoahEvans/BigSurSounds)
+- https://www.deviantart.com/bbrandis/art/macOS-Big-Sur-Sounds-846477749
 
 
 # Missing software
