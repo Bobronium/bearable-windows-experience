@@ -3,6 +3,20 @@ A lifeline for people dealing with Windows, especially after using macOS.
 
 Not awesome by all accounts, Windows can never be awesome.
 
+- [Consistency with macOS](#consistency-with-macos)
+  * [Keyboard layout](#keyboard-layout)
+  * [Cursors](#cursors)
+  * [Sounds](#sounds)
+- [Missing software](#missing-software)
+    + [Spotlight](#spotlight)
+    + [QuckLook](#qucklook)
+    + [brew](#brew)
+    + [iTerm2](#iterm2)
+- [BootCamp Hardware fixes](#bootcamp-hardware-fixes)
+  * [Touchpad](#touchpad)
+  * [Sound](#sound)
+  * [Fan](#fan)
+  * [GPU](#gpu)
 
 
 # Consistency with macOS
